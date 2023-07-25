@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "EagleEye",
+    "slug": "EagleEye",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "EagleEye"
+}
